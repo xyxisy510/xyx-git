@@ -1,1 +1,4 @@
 systemctl 56789
+w
+66
+s
